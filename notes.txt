@@ -1,0 +1,11 @@
+z-index - z-index is the CSS property that controls the stacking order of overlapping elements on a page
+
+Transitions in CSS allow us to control the way in which transition takes place between the two states of the element. For example, when hovering your mouse over a button, you can change the background color of the element with help of CSS selector and pseudo-class.
+
+min-height: 100vh; means that the minimum height of an element should be 100% of the viewport height
+
+The <span> tag is an inline container used to mark up a part of a text, or a part of a document. The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+
+Media Queries: @media is used to define a media query, which specifies a set of CSS styles to apply only if a certain condition is true. For example, you can use media queries to apply different styles for different screen sizes, devices, or media types.
+
+
